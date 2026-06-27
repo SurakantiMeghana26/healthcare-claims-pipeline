@@ -1,0 +1,101 @@
+diagnosis_id,icd10_code,diagnosis_name,category
+DX0001,I10,Essential hypertension,Cardiovascular
+DX0002,E11.9,Type 2 diabetes mellitus,Endocrine
+DX0003,J45.909,"Asthma, unspecified",Respiratory
+DX0004,M79.3,Myalgia,Musculoskeletal
+DX0005,K21.9,Gastro-esophageal reflux disease,Digestive
+DX0006,F32.9,Major depressive disorder,Mental Health
+DX0007,J06.9,Acute upper respiratory infection,Respiratory
+DX0008,N39.0,Urinary tract infection,Genitourinary
+DX0009,M54.5,Low back pain,Musculoskeletal
+DX0010,R51,Headache,Neurological
+DX0011,I10,Essential hypertension,Cardiovascular
+DX0012,E11.9,Type 2 diabetes mellitus,Endocrine
+DX0013,J45.909,"Asthma, unspecified",Respiratory
+DX0014,M79.3,Myalgia,Musculoskeletal
+DX0015,K21.9,Gastro-esophageal reflux disease,Digestive
+DX0016,F32.9,Major depressive disorder,Mental Health
+DX0017,J06.9,Acute upper respiratory infection,Respiratory
+DX0018,N39.0,Urinary tract infection,Genitourinary
+DX0019,M54.5,Low back pain,Musculoskeletal
+DX0020,R51,Headache,Neurological
+DX0021,I10,Essential hypertension,Cardiovascular
+DX0022,E11.9,Type 2 diabetes mellitus,Endocrine
+DX0023,J45.909,"Asthma, unspecified",Respiratory
+DX0024,M79.3,Myalgia,Musculoskeletal
+DX0025,K21.9,Gastro-esophageal reflux disease,Digestive
+DX0026,F32.9,Major depressive disorder,Mental Health
+DX0027,J06.9,Acute upper respiratory infection,Respiratory
+DX0028,N39.0,Urinary tract infection,Genitourinary
+DX0029,M54.5,Low back pain,Musculoskeletal
+DX0030,R51,Headache,Neurological
+DX0031,I10,Essential hypertension,Cardiovascular
+DX0032,E11.9,Type 2 diabetes mellitus,Endocrine
+DX0033,J45.909,"Asthma, unspecified",Respiratory
+DX0034,M79.3,Myalgia,Musculoskeletal
+DX0035,K21.9,Gastro-esophageal reflux disease,Digestive
+DX0036,F32.9,Major depressive disorder,Mental Health
+DX0037,J06.9,Acute upper respiratory infection,Respiratory
+DX0038,N39.0,Urinary tract infection,Genitourinary
+DX0039,M54.5,Low back pain,Musculoskeletal
+DX0040,R51,Headache,Neurological
+DX0041,I10,Essential hypertension,Cardiovascular
+DX0042,E11.9,Type 2 diabetes mellitus,Endocrine
+DX0043,J45.909,"Asthma, unspecified",Respiratory
+DX0044,M79.3,Myalgia,Musculoskeletal
+DX0045,K21.9,Gastro-esophageal reflux disease,Digestive
+DX0046,F32.9,Major depressive disorder,Mental Health
+DX0047,J06.9,Acute upper respiratory infection,Respiratory
+DX0048,N39.0,Urinary tract infection,Genitourinary
+DX0049,M54.5,Low back pain,Musculoskeletal
+DX0050,R51,Headache,Neurological
+DX0051,I10,Essential hypertension,Cardiovascular
+DX0052,E11.9,Type 2 diabetes mellitus,Endocrine
+DX0053,J45.909,"Asthma, unspecified",Respiratory
+DX0054,M79.3,Myalgia,Musculoskeletal
+DX0055,K21.9,Gastro-esophageal reflux disease,Digestive
+DX0056,F32.9,Major depressive disorder,Mental Health
+DX0057,J06.9,Acute upper respiratory infection,Respiratory
+DX0058,N39.0,Urinary tract infection,Genitourinary
+DX0059,M54.5,Low back pain,Musculoskeletal
+DX0060,R51,Headache,Neurological
+DX0061,I10,Essential hypertension,Cardiovascular
+DX0062,E11.9,Type 2 diabetes mellitus,Endocrine
+DX0063,J45.909,"Asthma, unspecified",Respiratory
+DX0064,M79.3,Myalgia,Musculoskeletal
+DX0065,K21.9,Gastro-esophageal reflux disease,Digestive
+DX0066,F32.9,Major depressive disorder,Mental Health
+DX0067,J06.9,Acute upper respiratory infection,Respiratory
+DX0068,N39.0,Urinary tract infection,Genitourinary
+DX0069,M54.5,Low back pain,Musculoskeletal
+DX0070,R51,Headache,Neurological
+DX0071,I10,Essential hypertension,Cardiovascular
+DX0072,E11.9,Type 2 diabetes mellitus,Endocrine
+DX0073,J45.909,"Asthma, unspecified",Respiratory
+DX0074,M79.3,Myalgia,Musculoskeletal
+DX0075,K21.9,Gastro-esophageal reflux disease,Digestive
+DX0076,F32.9,Major depressive disorder,Mental Health
+DX0077,J06.9,Acute upper respiratory infection,Respiratory
+DX0078,N39.0,Urinary tract infection,Genitourinary
+DX0079,M54.5,Low back pain,Musculoskeletal
+DX0080,R51,Headache,Neurological
+DX0081,I10,Essential hypertension,Cardiovascular
+DX0082,E11.9,Type 2 diabetes mellitus,Endocrine
+DX0083,J45.909,"Asthma, unspecified",Respiratory
+DX0084,M79.3,Myalgia,Musculoskeletal
+DX0085,K21.9,Gastro-esophageal reflux disease,Digestive
+DX0086,F32.9,Major depressive disorder,Mental Health
+DX0087,J06.9,Acute upper respiratory infection,Respiratory
+DX0088,N39.0,Urinary tract infection,Genitourinary
+DX0089,M54.5,Low back pain,Musculoskeletal
+DX0090,R51,Headache,Neurological
+DX0091,I10,Essential hypertension,Cardiovascular
+DX0092,E11.9,Type 2 diabetes mellitus,Endocrine
+DX0093,J45.909,"Asthma, unspecified",Respiratory
+DX0094,M79.3,Myalgia,Musculoskeletal
+DX0095,K21.9,Gastro-esophageal reflux disease,Digestive
+DX0096,F32.9,Major depressive disorder,Mental Health
+DX0097,J06.9,Acute upper respiratory infection,Respiratory
+DX0098,N39.0,Urinary tract infection,Genitourinary
+DX0099,M54.5,Low back pain,Musculoskeletal
+DX0100,R51,Headache,Neurological

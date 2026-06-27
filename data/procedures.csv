@@ -1,0 +1,51 @@
+procedure_id,cpt_code,procedure_name,category,standard_cost
+PROC0001,99213,"Office visit, established patient",E&M,152.51230930676078
+PROC0002,99214,"Office visit, moderate complexity",E&M,198.93049793382818
+PROC0003,80053,Comprehensive metabolic panel,Lab,31.824407743822256
+PROC0004,85025,Complete blood count,Lab,61.798144693161646
+PROC0005,71046,"Chest X-ray, 2 views",Radiology,102.05124223756442
+PROC0006,70450,CT head without contrast,Radiology,836.7482555992729
+PROC0007,45378,"Colonoscopy, diagnostic",Surgery,1499.6652865715428
+PROC0008,27447,Total knee arthroplasty,Surgery,25036.605771850103
+PROC0009,93000,Electrocardiogram,Cardiology,88.01790697172478
+PROC0010,93306,Echocardiogram,Cardiology,605.0203024870079
+PROC0011,99213,"Office visit, established patient",E&M,170.8792243895859
+PROC0012,99214,"Office visit, moderate complexity",E&M,196.29334895445845
+PROC0013,80053,Comprehensive metabolic panel,Lab,41.173736579786265
+PROC0014,85025,Complete blood count,Lab,37.3499937801101
+PROC0015,71046,"Chest X-ray, 2 views",Radiology,116.88069566083618
+PROC0016,70450,CT head without contrast,Radiology,817.3582695211467
+PROC0017,45378,"Colonoscopy, diagnostic",Surgery,1535.3866048470748
+PROC0018,27447,Total knee arthroplasty,Surgery,25031.594209625673
+PROC0019,93000,Electrocardiogram,Cardiology,108.48348066022578
+PROC0020,93306,Echocardiogram,Cardiology,646.3461734753758
+PROC0021,99213,"Office visit, established patient",E&M,170.29844760339972
+PROC0022,99214,"Office visit, moderate complexity",E&M,248.78652450306228
+PROC0023,80053,Comprehensive metabolic panel,Lab,57.189576512845775
+PROC0024,85025,Complete blood count,Lab,85.46442224640813
+PROC0025,71046,"Chest X-ray, 2 views",Radiology,169.40793446574705
+PROC0026,70450,CT head without contrast,Radiology,792.1598421955632
+PROC0027,45378,"Colonoscopy, diagnostic",Surgery,1496.5585792919724
+PROC0028,27447,Total knee arthroplasty,Surgery,25002.26030578043
+PROC0029,93000,Electrocardiogram,Cardiology,106.66735707844688
+PROC0030,93306,Echocardiogram,Cardiology,605.1148192880944
+PROC0031,99213,"Office visit, established patient",E&M,171.4093746392016
+PROC0032,99214,"Office visit, moderate complexity",E&M,229.24170180439393
+PROC0033,80053,Comprehensive metabolic panel,Lab,54.617750393816166
+PROC0034,85025,Complete blood count,Lab,59.73559557983617
+PROC0035,71046,"Chest X-ray, 2 views",Radiology,109.94716032905595
+PROC0036,70450,CT head without contrast,Radiology,846.3857954232124
+PROC0037,45378,"Colonoscopy, diagnostic",Surgery,1538.5687788513335
+PROC0038,27447,Total knee arthroplasty,Surgery,25036.728081417932
+PROC0039,93000,Electrocardiogram,Cardiology,122.92713958364628
+PROC0040,93306,Echocardiogram,Cardiology,617.9487221064695
+PROC0041,99213,"Office visit, established patient",E&M,142.28897373624557
+PROC0042,99214,"Office visit, moderate complexity",E&M,182.65746188400698
+PROC0043,80053,Comprehensive metabolic panel,Lab,33.93175837608899
+PROC0044,85025,Complete blood count,Lab,62.116395051156175
+PROC0045,71046,"Chest X-ray, 2 views",Radiology,101.39495929219868
+PROC0046,70450,CT head without contrast,Radiology,813.4592291716326
+PROC0047,45378,"Colonoscopy, diagnostic",Surgery,1503.2213795501943
+PROC0048,27447,Total knee arthroplasty,Surgery,25022.989433736373
+PROC0049,93000,Electrocardiogram,Cardiology,111.4511789317002
+PROC0050,93306,Echocardiogram,Cardiology,603.8531330986741

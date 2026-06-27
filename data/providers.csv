@@ -1,0 +1,101 @@
+provider_id,provider_name,provider_type,specialty,npi_number,address,city,state,zip_code,phone,is_active
+PRV00001,"Rodriguez, Figueroa and Sanchez Medical",Hospital,Cardiology,2181960013,908 Jennifer Squares,Robinsonshire,KY,01352,001-626-254-2351x16155,True
+PRV00002,"Stevens, Martinez and Nielsen Medical",Clinic,Family Medicine,1849593103,31647 Martin Knoll Apt. 419,New Jessica,GA,61090,(748)535-0305x6413,True
+PRV00003,"Porter, Wilkerson and Day Medical",Hospital,Radiology,2423884969,3287 Katelyn Wall Apt. 226,South Patrickmouth,NC,33454,+1-401-984-5146,True
+PRV00004,Mckay Ltd Medical,Urgent Care,Cardiology,4828148932,88095 Smith Lake Suite 303,North Jessicaland,WV,70323,001-822-778-2489x63834,True
+PRV00005,Lam-Hayes Medical,Hospital,Family Medicine,3315098393,03105 Willie Harbors,Lewisberg,VA,75348,001-773-876-3116,True
+PRV00006,Owens-Daniel Medical,Hospital,Pediatrics,1065133387,2473 Scott Wall,North Deniseside,MP,02435,432-867-7360,True
+PRV00007,Galloway LLC Medical,Urgent Care,Family Medicine,7468723430,500 Shaw Walk,North Susan,CO,24857,291-336-1939,False
+PRV00008,Sandoval-Cunningham Medical,Private Practice,Urology,5435346247,07991 Amanda Parkways Suite 251,West Justin,NV,71701,001-449-680-8412x411,True
+PRV00009,Jacobs-Robbins Medical,Clinic,Surgery,3487401640,2427 Hoffman Creek,Lake Rebeccaside,AZ,48894,001-782-562-0450,False
+PRV00010,"Wright, Garcia and Deleon Medical",Private Practice,Internal Medicine,6923226025,342 Patrick Camp Suite 337,Kevinbury,IN,03602,+1-636-454-1458x68501,True
+PRV00011,"Estes, Baker and Rodriguez Medical",Clinic,Urology,6556981693,60883 Reynolds Shores Suite 951,Williamchester,MD,53244,001-248-623-6629x946,True
+PRV00012,Clark-Floyd Medical,Hospital,Dermatology,9577738721,951 Emily Fork Apt. 200,South Cheryl,WI,10046,569.436.7632x016,False
+PRV00013,"Holmes, Williams and Wright Medical",Hospital,Neurology,1727889579,727 Green Gateway Suite 873,Scottport,IA,36115,958-812-2362x31665,True
+PRV00014,Clark Group Medical,Private Practice,Urology,6909670546,893 Robinson Mews Suite 065,Ramseymouth,PW,17229,+1-280-669-9016x272,True
+PRV00015,Murphy-Gibson Medical,Urgent Care,Pediatrics,5646417080,10033 Christine Garden Apt. 719,South Holly,WI,48852,(699)812-4190,True
+PRV00016,David-Gonzalez Medical,Urgent Care,Dermatology,9314919058,518 Smith Manor Suite 165,Zimmermanchester,HI,96681,549.987.7694x53147,True
+PRV00017,"Bishop, Gray and Johnson Medical",Private Practice,Psychiatry,5273545494,313 Freeman Trace,Lake Thomas,VT,64833,701.843.6349x578,True
+PRV00018,"Pierce, Bell and Chavez Medical",Hospital,Cardiology,4431351823,749 Hooper Village,West Jeremy,HI,40119,9823400842,True
+PRV00019,Andrews Group Medical,Private Practice,Dermatology,7752047116,90229 Miller Gateway Apt. 869,Port Alexandra,NV,58529,496-549-9091x3341,True
+PRV00020,Arnold and Sons Medical,Hospital,Oncology,0679740344,34936 Amy Rue Apt. 421,East Laurashire,PW,38329,217.846.4887x719,True
+PRV00021,"Morris, Wright and Davis Medical",Urgent Care,Radiology,9904902787,96717 Ortiz Islands Apt. 256,Robertsfurt,GU,72603,2719545168,True
+PRV00022,Brown-Stone Medical,Clinic,Neurology,9770348247,09324 Andrea Course Apt. 171,South Sarah,LA,67199,001-446-377-3782x639,True
+PRV00023,Barton-Dickerson Medical,Clinic,Radiology,5840449972,755 Gibson Islands Apt. 396,Port Kimberly,AZ,42205,001-376-962-7028x9517,True
+PRV00024,Bowen Group Medical,Hospital,Psychiatry,2174596158,7809 Jimmy Spur Suite 316,Port Cynthiaville,NV,22306,001-840-405-0455x623,True
+PRV00025,Thompson PLC Medical,Clinic,Emergency Medicine,6937923747,074 Charles Key Suite 647,Jamesfurt,PR,63836,836-695-9440,False
+PRV00026,Knight Ltd Medical,Urgent Care,Internal Medicine,0974395339,210 Kramer Bypass Suite 214,Julieburgh,ID,17823,+1-758-384-2474,True
+PRV00027,Mccarty-Taylor Medical,Private Practice,Urology,3685160481,4965 Emily Mountains Apt. 985,Lake Bryan,GU,61353,001-446-812-0047x113,True
+PRV00028,Watson-Avery Medical,Clinic,Cardiology,8692617964,537 Sampson Walk,Corystad,ND,85019,(706)543-1713x900,True
+PRV00029,Buchanan and Sons Medical,Urgent Care,Internal Medicine,1839335290,28421 David Knolls Apt. 950,West Brian,WA,55677,611.977.5891x78390,True
+PRV00030,"Maynard, Brown and Mendoza Medical",Clinic,Psychiatry,6617711592,49985 Vang Pines,Shawnchester,CT,92484,883-867-3657,True
+PRV00031,"Davis, Simmons and Ortega Medical",Clinic,Radiology,5271111615,098 Santiago Loop,Morganchester,VI,95011,4499451983,False
+PRV00032,Boone LLC Medical,Urgent Care,Radiology,8514936899,402 Park Inlet,Michaelburgh,VI,19277,001-861-920-1836,False
+PRV00033,Moore-Collins Medical,Clinic,Internal Medicine,5991022901,6797 Nelson Throughway Apt. 561,Erikashire,NM,69567,+1-740-336-9003x43244,True
+PRV00034,Jimenez Group Medical,Clinic,Surgery,2268388516,0715 Berry Station,Robertsfurt,AK,43069,(897)351-6136,True
+PRV00035,Harrell-Reese Medical,Urgent Care,Psychiatry,3521818835,231 Jonathan Extensions Apt. 127,Webstershire,NV,89778,001-695-652-7177,False
+PRV00036,"Brown, Romero and Collins Medical",Private Practice,Family Medicine,7005411998,9807 Marc Mountains Apt. 071,Toniland,NY,85190,(703)777-8892,True
+PRV00037,Hughes-Schroeder Medical,Urgent Care,Dermatology,9051518644,1925 Ponce Square,Andersonland,ME,73760,(752)981-6850x5423,True
+PRV00038,Perez and Sons Medical,Hospital,Emergency Medicine,2141888059,622 Marie Trail,Lake Samuel,MT,48250,+1-937-994-7383x47359,True
+PRV00039,Strickland-Shaw Medical,Urgent Care,Psychiatry,6239240758,814 Kathryn Groves,Whiteheadberg,MP,57841,737-550-6068,True
+PRV00040,Vang-Brooks Medical,Urgent Care,Oncology,0515220472,9010 Lewis Drive Suite 143,Davidbury,MT,84249,+1-671-817-9808x932,False
+PRV00041,Mendez and Sons Medical,Private Practice,Pediatrics,9621851888,7065 Burgess Knolls,West Johnville,WI,76772,001-952-205-8527x7221,True
+PRV00042,Harris-Moody Medical,Hospital,Radiology,0548687403,0541 Kim Locks Suite 652,Holtstad,AS,68563,716-616-9284x511,True
+PRV00043,Griffin-Robbins Medical,Private Practice,Dermatology,2757059640,658 Stephanie Divide,Johnsonland,IA,85063,(456)790-9275x571,True
+PRV00044,Edwards-Ramirez Medical,Urgent Care,Emergency Medicine,1027868144,94731 Melissa Mission Apt. 715,Jennaside,ND,38559,722-958-3132x3705,False
+PRV00045,"Anderson, Henson and Jones Medical",Hospital,Surgery,6786691251,8528 Katrina Curve Suite 801,West Fred,MD,93474,458.641.4384,True
+PRV00046,"Ferguson, Shaw and Jackson Medical",Clinic,Pediatrics,9229959001,943 Montgomery Burgs,Smallside,LA,84637,573-764-7102x7677,True
+PRV00047,"Thomas, Hensley and Flores Medical",Private Practice,Radiology,5625881537,7321 Kelly Lights,Wrightburgh,GU,43418,001-953-227-8774,True
+PRV00048,Landry PLC Medical,Clinic,Neurology,7339500479,8016 Nicole Stream Suite 650,Williamsside,ID,48017,+1-341-468-7849,True
+PRV00049,Long LLC Medical,Hospital,Psychiatry,8523986800,57872 Mark Ridge,Franciscoport,OR,44590,288.979.4705x51694,True
+PRV00050,Coffey-Patton Medical,Urgent Care,Cardiology,9930972896,309 James Mill,Robertchester,UT,27225,(489)970-2838x57865,True
+PRV00051,"Peterson, Gomez and Ingram Medical",Private Practice,Urology,4973348434,375 Bailey Underpass Suite 419,Huangfurt,GU,45738,001-624-404-1574x73384,True
+PRV00052,Gilbert PLC Medical,Clinic,Cardiology,3308330165,20826 Woods Flats Suite 540,Lake Audreyside,WA,95281,2262206724,True
+PRV00053,Bradley-Rodriguez Medical,Hospital,Dermatology,5478872874,52742 Jill Turnpike,Ashleyborough,HI,80580,+1-266-685-1612x2753,False
+PRV00054,Young-Molina Medical,Hospital,Urology,5499045301,2684 Danielle Hill Suite 933,South Eric,WA,79896,(768)378-3391x878,True
+PRV00055,"Rodriguez, Poole and Leach Medical",Clinic,Radiology,3982258713,87072 Bryant Centers Suite 406,Lisaborough,OR,10073,6658180170,False
+PRV00056,Mack Ltd Medical,Clinic,Internal Medicine,6567661825,86823 Katelyn Hills,Nunezside,NE,70222,(533)575-2431x0690,False
+PRV00057,Garcia Inc Medical,Clinic,Pediatrics,7903067383,84395 Young Wells,Lake Adriana,MT,39888,708-892-6870x568,True
+PRV00058,Hernandez-Bennett Medical,Private Practice,Oncology,8733427086,826 Jonathan Isle Apt. 751,North Joseph,TX,79795,+1-501-539-8373x540,True
+PRV00059,"Wilson, Key and Mendoza Medical",Urgent Care,Pediatrics,3936385467,4587 Garcia Stravenue Suite 535,Robertshire,VI,29503,001-820-548-9964x2353,False
+PRV00060,Pierce-Harding Medical,Hospital,Family Medicine,5477725228,80801 Kathy Loop Apt. 312,East Williamstad,AR,81481,+1-697-270-0886x0084,True
+PRV00061,"Li, Craig and Drake Medical",Hospital,Neurology,2118233984,6156 Cunningham Square Apt. 410,South Nicholasside,NJ,07856,+1-902-617-6591x8033,True
+PRV00062,Glass Ltd Medical,Clinic,Psychiatry,4890250392,42939 Rhodes Plains Suite 621,Brianchester,IN,10464,899-496-5047x73586,True
+PRV00063,"Willis, James and Barton Medical",Hospital,Dermatology,4311426265,10475 Garcia Corners Apt. 678,Garcialand,MI,73143,399-556-0466,True
+PRV00064,"Meyer, Jennings and Jackson Medical",Clinic,Dermatology,4447212646,1543 Wheeler Flat Suite 124,South Martinfurt,AS,43694,856.792.4593x752,True
+PRV00065,Navarro-Chen Medical,Private Practice,Dermatology,9356465193,807 Samuel Highway,Port Melaniechester,TX,65945,(943)842-6617,True
+PRV00066,"Hunter, Knapp and Holt Medical",Private Practice,Radiology,8058911352,656 Alex Green,New Julie,OH,76590,001-993-375-6798x250,False
+PRV00067,Perry-Nixon Medical,Clinic,Pediatrics,1254573875,77514 Lisa Crescent Apt. 512,New Greg,GA,43884,+1-267-536-2266,True
+PRV00068,Vargas-Price Medical,Urgent Care,Family Medicine,3341918255,1478 Harper Ridge,Matthewsstad,MI,60513,+1-424-799-1251x341,False
+PRV00069,"Thomas, Price and Carlson Medical",Urgent Care,Family Medicine,9662782827,25790 Crane Oval Apt. 368,Ortizfort,MT,93580,672.419.0340x438,True
+PRV00070,Cunningham-Barton Medical,Hospital,Radiology,7881914858,783 Garcia Village,West Nancy,AZ,59448,451-571-3395x962,False
+PRV00071,Trujillo PLC Medical,Private Practice,Oncology,5849825449,126 Victoria Way Apt. 232,Mariafurt,NM,19135,001-646-767-1168,False
+PRV00072,Clements-Murphy Medical,Urgent Care,Surgery,0175186363,5458 Ashlee Oval Suite 001,Smithburgh,NV,60337,6633242415,True
+PRV00073,Beck-Banks Medical,Hospital,Cardiology,0643611037,93870 Heather Viaduct,Port Robertberg,NJ,09784,861.411.5542,False
+PRV00074,"Haney, Thomas and Moreno Medical",Private Practice,Urology,0927532697,12196 Richmond Island,East Joshua,CO,33028,+1-599-894-0438,True
+PRV00075,Lucas-Bowers Medical,Clinic,Family Medicine,3761379180,2696 Payne Extensions Suite 109,North Joseton,AR,52664,348.566.6188x92414,True
+PRV00076,Herrera Group Medical,Urgent Care,Emergency Medicine,9146303161,904 David Station Apt. 027,Alexandraview,GA,49242,(641)305-6481,False
+PRV00077,Gibson-Ward Medical,Clinic,Internal Medicine,7925241913,03075 Mora Fall,New Lindachester,IN,42680,265.441.9518,False
+PRV00078,Brock Inc Medical,Clinic,Dermatology,6174451870,49493 Richardson Park Apt. 832,South Andrewside,MI,83855,001-205-406-4138x367,False
+PRV00079,"Ramirez, Williams and Hall Medical",Hospital,Cardiology,8657191826,906 Joel Green,Sarafurt,UT,96885,957-743-1329x12127,True
+PRV00080,Martinez-Howard Medical,Hospital,Urology,3747411249,52135 Palmer Springs,Jorgeburgh,AK,53505,488.531.7121x003,True
+PRV00081,Watson-Mccoy Medical,Clinic,Oncology,1994101372,1070 Sandra Meadows,Crawfordfurt,TX,56424,(553)624-4720,False
+PRV00082,Jenkins-Pierce Medical,Urgent Care,Family Medicine,0146263838,5787 Durham Parkway,Paulburgh,AK,42296,+1-530-540-7859x321,False
+PRV00083,Ferguson-Moody Medical,Hospital,Emergency Medicine,0396522395,059 Anna Field Suite 842,Johnsonton,IN,79362,708.470.5932,False
+PRV00084,Brown-Hernandez Medical,Hospital,Oncology,2185156915,2267 Thompson Points Suite 392,Parkerport,DC,23793,001-909-469-0295x9391,True
+PRV00085,Mcgee-Young Medical,Urgent Care,Internal Medicine,5215704331,1006 Oconnor Expressway Suite 765,Garciafort,WY,76267,+1-432-871-0405x4115,False
+PRV00086,Dennis PLC Medical,Urgent Care,Emergency Medicine,1599706296,15336 Guerrero Hills,North Brandon,OK,72546,520.450.6149x7310,True
+PRV00087,"Carter, Miller and Anthony Medical",Private Practice,Family Medicine,4677418625,2704 Marshall Fork Suite 902,North Elizabethside,MT,99651,001-538-906-8687,True
+PRV00088,Miller-Orr Medical,Hospital,Surgery,0898992172,32061 Harris View,Port Brooke,MD,95803,916-286-8548,True
+PRV00089,"Dean, Mills and Barnes Medical",Hospital,Cardiology,6229991191,564 Pena Ports Suite 024,Thomasfurt,AZ,52378,430-674-5054x44713,False
+PRV00090,"Ramos, Petersen and Adams Medical",Clinic,Cardiology,6913736785,214 Taylor Vista,East Jamesborough,MP,08054,807.305.3457,True
+PRV00091,"Johnson, Watson and Wheeler Medical",Clinic,Dermatology,2798552414,0293 Deborah Springs,West Denise,NY,03129,001-707-922-9034x94466,True
+PRV00092,Robinson-Turner Medical,Clinic,Oncology,8969108589,1715 Davidson Wall Suite 443,New Kathy,MH,07942,+1-565-720-7446x660,True
+PRV00093,"Reeves, Parks and Little Medical",Clinic,Psychiatry,7584282417,482 Pena Forges,Jeffreyport,MT,43927,(949)547-1709x991,True
+PRV00094,"Wilson, Becker and Moreno Medical",Hospital,Oncology,6022356972,217 Welch Fall Suite 007,Jasonburgh,OK,21267,512.796.6667x6008,True
+PRV00095,Mcclain PLC Medical,Private Practice,Family Medicine,3003354216,10447 Hamilton Spur Apt. 575,East Stacy,PW,53374,3337230982,True
+PRV00096,"Santos, Johnson and Mcdowell Medical",Clinic,Internal Medicine,4890901001,6184 Miles Ford Apt. 461,Cindyberg,MT,14252,891.641.1739x34835,False
+PRV00097,Williams Group Medical,Clinic,Radiology,3753001197,81143 Hinton Hill,Stevenville,GU,23399,4454561100,True
+PRV00098,Howard-Kim Medical,Urgent Care,Neurology,9415521667,7621 Heather Circle Apt. 169,Phammouth,HI,80628,(759)202-7716x7014,True
+PRV00099,"Oneill, Warren and Manning Medical",Hospital,Orthopedics,9358891637,628 Alexander Estate Suite 721,Floresmouth,KY,07100,738.366.3177x97177,True
+PRV00100,Mcgee-Smith Medical,Hospital,Pediatrics,6608801994,755 Lisa Vista,Riverafort,VT,86637,(371)213-0554x885,True

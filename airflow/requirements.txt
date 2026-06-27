@@ -1,0 +1,4 @@
+faker==25.0.0
+pandas==2.2.2
+snowflake-connector-python==3.10.0
+dbt-snowflake==1.11.0

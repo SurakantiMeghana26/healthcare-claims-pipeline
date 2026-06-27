@@ -1,0 +1,14 @@
+healthcare_analytics:
+  outputs:
+    dev:
+      type: snowflake
+      account: darenmg-gg85063
+      user: SURAKANTIMEGHANA
+      password: Chkraja@261234
+      role: ACCOUNTADMIN
+      database: HEALTHCARE_CLAIMS
+      warehouse: COMPUTE_WH
+      schema: MARTS
+      threads: 4
+      client_session_keep_alive: False
+  target: dev

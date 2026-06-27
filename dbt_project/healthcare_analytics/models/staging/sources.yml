@@ -1,0 +1,53 @@
+version: 2
+
+sources:
+  - name: raw_data
+    description: "Raw healthcare claims data loaded from CSV files"
+    database: HEALTHCARE_CLAIMS
+    schema: RAW_DATA
+    
+    tables:
+      - name: raw_providers
+        description: "Healthcare providers (doctors, hospitals, clinics)"
+        columns:
+          - name: PROVIDER_ID
+            description: "Unique provider identifier"
+            tests:
+              - not_null
+              - unique
+      
+      - name: raw_members
+        description: "Healthcare members (patients)"
+        columns:
+          - name: MEMBER_ID
+            description: "Unique member identifier"
+            tests:
+              - not_null
+              - unique
+      
+      - name: raw_procedures
+        description: "Medical procedures with CPT codes"
+        columns:
+          - name: PROCEDURE_ID
+            description: "Unique procedure identifier"
+            tests:
+              - not_null
+              - unique
+      
+      - name: raw_diagnoses
+        description: "Diagnoses with ICD-10 codes"
+        columns:
+          - name: DIAGNOSIS_ID
+            description: "Unique diagnosis identifier"
+            tests:
+              - not_null
+              - unique
+      
+      - name: raw_claims
+        description: "Insurance claims data"
+        columns:
+          - name: CLAIM_ID
+            description: "Unique claim identifier"
+            tests:
+              - not_null
+              - unique
